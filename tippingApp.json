@@ -6,14 +6,14 @@
 			"status": "Inactive"
 		},
 		{
-			"fullName": "Lyn",
-			"email": "lyn@mangakino.co.nz",
-			"status": "Active"
-		},
-		{
 			"fullName": "Norm",
 			"email": "norm@mango.,co.nz",
 			"status": "Inactive"
+		},
+		{
+			"fullName": "Lyn",
+			"email": "lyn@mangakino.co.nz",
+			"status": "Active"
 		}
 	]
 }
