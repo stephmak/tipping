@@ -3,12 +3,12 @@
 		{
 			"fullName": "Graham",
 			"email": "Grym@mangakino.co.nz",
-			"status": "Active"
+			"status": "InActive"
 		},
 		{
 			"fullName": "Lyn",
 			"email": "lyn@mangakino.co.nz",
-			"status": "InActive"
+			"status": "Active"
 		}
 	]
 }
