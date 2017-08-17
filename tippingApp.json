@@ -1,0 +1,14 @@
+{
+	"member": [
+		{
+			"fullName": "Grym",
+			"email": "Grym@mangakino.co.nz",
+			"status": "Active"
+		},
+		{
+			"fullName": "Lyn",
+			"email": "lyn@mangakino.co.nz",
+			"status": "InActive"
+		}
+	]
+}
