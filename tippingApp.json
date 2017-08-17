@@ -1,0 +1,17 @@
+{
+	"name-list": [
+		"\n              Grym\n          "
+	],
+	"member": [
+		{
+			"fullName": "Grym",
+			"email": "Grym@mangakino.co.nz",
+			"status": "Active"
+		},
+		{
+			"fullName": "Lyn",
+			"email": "Lyn@mangakino.co.nz",
+			"status": "InActive"
+		}
+	]
+}
